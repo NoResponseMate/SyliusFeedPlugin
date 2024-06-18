@@ -37,6 +37,7 @@
     "League\\Flysystem\\FileNotFoundException",
     "League\\Flysystem\\FilesystemInterface",
     "League\\Flysystem\\RootViolationException",
-    "Symfony\\Component\\HttpFoundation\\Session\\FlashBagAwareSessionInterface"
+    "Symfony\\Component\\HttpFoundation\\Session\\FlashBagAwareSessionInterface",
+    "Symfony\\Bundle\\FrameworkBundle\\Kernel\\MicroKernelTrait"
   ]
 }
